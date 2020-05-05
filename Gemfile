@@ -6,4 +6,3 @@ group :development do
 gem "pry"
 end
 
-gem install hashie

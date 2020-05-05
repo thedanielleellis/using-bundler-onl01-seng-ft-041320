@@ -8,4 +8,4 @@ end
 
 gem 'hashie'
 gem 'sinatra', 'v1.4.4'
-gem 'octokit', 2.0 (twiddle-wakka) 
+gem 'octokit', '~> 2.0' 

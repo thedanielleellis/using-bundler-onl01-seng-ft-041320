@@ -7,5 +7,5 @@ gem "pry"
 end
 
 gem 'hashie'
-gem 'sinatra', v?1.4.4'
+gem 'sinatra', 'v1.4.4'
 gem 'octokit', 2.0 (twiddle-wakka) 
